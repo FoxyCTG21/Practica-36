@@ -9,6 +9,7 @@ int numerador = 0; //Definimos una variable de contador
 int valorpul = 0; //Difinemos una variable de posición del pulsador
 
 int foxyelmejor = 0;
+int foxynoeselmejor = 0;
 
 void setup() {
   pinMode(LED1, OUTPUT); //Definimos el led1 como salida
