@@ -6,7 +6,7 @@ int LED3 = 10;
 int PUL = 9; //Definimos el pulsador en el pin 9 fisico
 int dpul = 0; //Definimos valor inicial al pulsador
 int numerador = 0; //Definimos una variable de contador
-int valorpul = 0; //Difinemos una variable de posición del pulsador.
+int valorpul = 0; //Difinemos una variable de posición del pulsador
 
 void setup() {
   pinMode(LED1, OUTPUT); //Definimos el led1 como salida
